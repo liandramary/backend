@@ -6,8 +6,8 @@ POST http://localhost:3000/pessoa/cadastrar/
 Content-Type: application/json
 
 {
-    "nome": "Roberto Simão",
-    "cpf": "12345",
-    "idade": 26
+    "nome": "Rosangela Silva",
+    "cpf": "543543",
+    "idade": 27
 }
 
